@@ -1,0 +1,17 @@
+#maindiv{
+    background-color: burlywood;
+    height: 250px;
+    text-align: center;
+    padding: 25px;
+}
+.choicebtn{
+    background-color: black;
+    color: white;
+    height: 35px;
+    border: 2px solid black;
+    border-radius: 50px;
+    
+}
+#resulttext{
+    color: rgb(85, 0, 255);
+}
